@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+	<head><title>Brice's Computers</title></head>
+		<h1 style="text-align:center">Computers Built</h1>
+			<body>
+				<h3>My Computer (cost was around $600)</h3>
+				
+				<ul>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16819103945">Processor</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16814131435">Graphics card</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16813157278">Motherboard</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822145299">Hard Drive</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16817182200">Power Supply</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16820231307">RAM</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16827136240">Optical Drive</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16811147159">Case</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16833180073">Wifi Card</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16835103099">CPU Cooler</a></li>
+				
+				</ul>
+				<h3>Mike's Computer (cost was around $800)(lost info)</h3>
+				<ul>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16819115234">Processor</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16813157314">Motherboard</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16833166047">Wifi Card</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16827136247">DVD/CD Drive</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16820313081">RAM</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16814150599">Graphics Card</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16817182199">Power Supply</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16811147060">Case</a></li>
+				</ul>	
+				<h3>Zach's Computer (cost around $600)</h3>
+				<ul>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16819103727">Processor</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16813128564">Motherboard</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16820104261">RAM</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=33-704-059&IsVirtualParent=1">Wifi Card</a></li>					
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16817159125">Power Supply</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16811119256">Case</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16814102993">Graphics Card</a></li>
+				
+				</ul>
+				<h3>Jason's Computer (cost around $1000)</h3>
+				<ul>
+					<li><a href="">Processor</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16813130653">Motherboard</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16814121725">Graphics Card</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16817151095">Power Supply</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16820104262">RAM</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822236339">Hard Drive</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16811139016">Case</a></li>
+					<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16827106289">Optical Drive</a></li>
+				
+				</ul>
+				
+					<h2>Thoughts on upgrades to all computers</h2><p>I believe that one upgrade that can be used in every single one of these computers is a
+					solid state drive not only to be used as a boot drive, which would be extremely beneficial, but to also be used to open all the major
+					programs that are used the most on the computer itself.</p>
+		
+		<h2>Popular YouTube Videos (feat. <a href="http://www.youtube.com/ximpactxgamingx">Impact Gaming</a>)</h2>
+		
+			<p><b>Witch Doctor Guide in Diablo III</b></P>
+				<iframe width="640" height="360" src="http://www.youtube.com/embed/AHOdoN_aACQ?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+			<p><b>Demon Hunter Guide In Diablo III</b></p>
+				<iframe width="640" height="360" src="http://www.youtube.com/embed/o3LC-4oAFDs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+				
+				
+				
+				
+		
+		
+			</body>
+
+
+
+</html>
